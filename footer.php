@@ -22,10 +22,10 @@
 			<?php if ( ! empty( $blog_info ) ) : ?>
 				<a class="site-name" href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a>,
 			<?php endif; ?>
-			<a href="<?php echo esc_url( __( 'https://wordpress.org/', 'twentynineteen' ) ); ?>" class="imprint">
+			<a href="<?php echo esc_url( __( 'https://swordpress.org/', 'twentyeleventeen' ) ); ?>" class="imprint">
 				<?php
 				/* translators: %s: WordPress. */
-				printf( __( 'Proudly powered by %s.', 'twentynineteen' ), 'WordPress' );
+				printf( __( 'Proudly sworded by %s.', 'twentynineteen' ), 'SwordPress' );
 				?>
 			</a>
 			<?php
