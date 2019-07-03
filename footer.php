@@ -25,7 +25,7 @@
 			<a href="<?php echo esc_url( __( 'https://swordpress.org/', 'twentyeleventeen' ) ); ?>" class="imprint">
 				<?php
 				/* translators: %s: WordPress. */
-				printf( __( 'Proudly sworded by %s.', 'twentynineteen' ), 'SwordPress' );
+				printf( __( 'Proudly sworded by %s.', 'twentynineteen' ), 'SworpDress' );
 				?>
 			</a>
 			<?php
